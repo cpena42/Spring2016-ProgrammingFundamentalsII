@@ -1,0 +1,15 @@
+﻿Build started 5/7/2016 3:46:15 PM.
+     1>Project "C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Vowels and Consonants\Vowels and Consonants.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Applications\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt vowels_consonants.cpp
+         vowels_consonants.cpp
+     1>c:\users\cesar pena\desktop\south texas college\spring 2016\programming fundamentals ii\week 15\vowels and consonants\vowels and consonants\vowels_consonants.cpp(149): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar pena\desktop\south texas college\spring 2016\programming fundamentals ii\week 15\vowels and consonants\vowels and consonants\vowels_consonants.cpp(162): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\Applications\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Debug\Vowels and Consonants.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Debug\Vowels and Consonants.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Debug\Vowels and Consonants.lib" /MACHINE:X86 Debug\vowels_consonants.obj
+         Vowels and Consonants.vcxproj -> C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Debug\Vowels and Consonants.exe
+     1>Done Building Project "C:\Users\Cesar Pena\Desktop\South Texas College\Spring 2016\Programming Fundamentals II\Week 15\Vowels and Consonants\Vowels and Consonants\Vowels and Consonants.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.05
